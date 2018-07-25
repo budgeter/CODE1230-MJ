@@ -7,6 +7,17 @@ font-size:24px;
 
 h1 {
 border-style: solid;
-border-width: 10px;
+border-width: 2px;
 border-color: #CD5C5C;
+}
+
+img {
+width:25%;
+}
+
+footer {
+position: fixed;
+bottom: 0;  
+padding: 1%;
+font-size:12px;
 }
