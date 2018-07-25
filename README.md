@@ -20,7 +20,7 @@ Easy Illustrator intro for clean diagrams: https://helpx.adobe.com/illustrator/h
 	- GITHUB WEBSITE LINK
 - 5 IMAGES OF SPACES
 - 5 DIAGRAMS AND WORD FOR EA IMAGE 
-- UPLOAD TO GITHUB WEB PAGE ~AeStHeTiCaLlY~
+- UPLOAD TO GITHUB WEB PAGE ~*AeStHeTiCaLlY*
 
 Next Week: <BR>
 - INSTALL GITHUB DESKTOP
