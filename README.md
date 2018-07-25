@@ -2,7 +2,7 @@
 
 ## USEFUL THINGS
 #### EMAILS
-ROB.ASHER@COX.COM.AU <br> MADELEINE.JOHANSON@COX.COM.AU <BR> NAZMUL.KHAN@COX.COM.AU
+rob.asher@cox.com.au <br> madeleine.johanson@cox.com.au <BR> nazmul.khan@cox.com.au
 
 #### LINKS
 Example site: https://madeleinejohanson.github.io/CODE1230-MJ/ <br>
